@@ -1,0 +1,41 @@
+HTML{
+    background-color: aquamarine;
+}
+div{
+    margin-top: 15px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+img{
+    width: 300px;
+    height: 250px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h1{
+    text-align: center;
+    color: firebrick;
+}
+p{
+    color: coral;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#hfb{
+    margin-left: 110px;
+}
+#img1{
+    margin-right: 190px;
+}
+#789{
+    margin-left: 110px;
+}
+#uhu{
+    margin-right: 190px;
+}
